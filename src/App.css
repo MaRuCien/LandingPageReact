@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card-title1 {
+    font-size: 500%;  
+}
+
+footer {
+    height: 50px;
+}
