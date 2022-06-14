@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css'
 import {Navbar} from './Componentes/Navbar';
 import {Welcome} from './Componentes/Welcome';
